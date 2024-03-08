@@ -3,4 +3,3 @@
 set -xe
 
 cc -o streverse src/*.c
-./streverse
